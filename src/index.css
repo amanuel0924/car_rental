@@ -3,6 +3,24 @@
 @tailwind utilities;
 @import url('https://fonts.googleapis.com/css2?family=Bai+Jamjuree:wght@400;600&display=swap');
 
+@layer base{
+  h3{
+    @apply text-4xl mb-8 font-bold text-greyshBlue md:text-5xl
+  }
+  h5{
+    @apply  mb-2 text-2xl text-greyshBlue font-bold
+  }
+}
+.section_container{
+  @apply max-w-6xl mx-auto text-center px-10
+}
+.section_content{
+  @apply max-w-3xl mx-auto text-xl text-center leading-9 text-lightgreyBlue
+}
+.btn_container{
+  @apply flex flex-col space-y-6 md:space-y-0 md:space-x-4 md:flex-row text-xl text-white justify-center
+}
+
 body{
   background-image: url('./assets/images/bg-header-desktop.png');
   background-repeat: no-repeat;
