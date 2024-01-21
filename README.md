@@ -1,10 +1,18 @@
+# Car Rental Website Readme
+This readme provides an overview of the Car Rental Website, a React-based project with Tailwind CSS for styling. The website facilitates the rental of cars by providing users with a user-friendly interface to browse available vehicles, make reservations, and manage their rental bookings.
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
 
-In the project directory, you can run:
+In the project directory, you can run:![Screenshot 2024-01-21 233045](https://github.com/amanuel0924/car_rental/assets/89680444/853beb43-5daf-4c75-9707-7b6198a93d16)
+![Screenshot 2024-01-21 233122](https://github.com/amanuel0924/car_rental/assets/89680444/b2575dc4-b3c0-4936-89ca-dce4a09c81ab)
+![Screenshot 2024-01-21 233104](https://github.com/amanuel0924/car_rental/assets/89680444/063e3f7e-c592-4421-8cea-c6d3e8ebcd99)
+![Screenshot 2024-01-21 233215](https://github.com/amanuel0924/car_rental/assets/89680444/266f6b93-0a5a-4129-881a-9807b245db3e)
+![Screenshot 2024-01-21 233156](https://github.com/amanuel0924/car_rental/assets/89680444/0764253c-a0e1-43c5-9370-b43fcbb2a471)
+![Screenshot 2024-01-21 233146](https://github.com/amanuel0924/car_rental/assets/89680444/d95505a2-f4cb-4e2f-ab64-84a5f5b404ff)
+
 
 ### `npm start`
 
