@@ -3,6 +3,7 @@ import Cheap from "./componets/Cheap"
 import Details from "./componets/Details"
 import Futures from "./componets/Futures"
 import Hero from "./componets/Hero"
+import Partners from "./componets/Partners"
 
 function App() {
   return (
@@ -12,6 +13,7 @@ function App() {
       <Futures />
       <Access />
       <Details />
+      <Partners />
     </>
   )
 }
