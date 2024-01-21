@@ -1,11 +1,11 @@
 import React from "react"
-import LOGO from "./../assets/images/car-logo.svg"
+import LOGO from "./../assets/images/car-rental.png"
 
 const Hero = () => {
   return (
     <section id="hero">
       <div className="section_container mb-40 pt-16 ">
-        <img src={LOGO} alt="carlogo" className=" w-44 h-32 mx-auto my-16" />
+        <img src={LOGO} alt="carlogo" className="  mx-auto my-16" />
         <h3>Book directly from local suppliers</h3>
         <p className=" text-2xl max-w-3xl mx-auto mb-10 text-lightgreyBlue">
           You have reached just the right place. carent.com is a leading car

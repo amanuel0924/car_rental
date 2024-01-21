@@ -10,7 +10,7 @@ const Futures = () => {
             <img
               src={CAR}
               alt="car"
-              className="md:absolute top-0 right-[50%]"
+              className="md:absolute top-14 right-[50%]"
             />
           </div>
           <div
